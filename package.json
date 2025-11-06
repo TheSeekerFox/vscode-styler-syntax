@@ -1,6 +1,6 @@
 {
   "name": "styler-syntax-highlighter",
-  "displayName": "Styler Syntax Highlighter",
+  "displayName": "Styler Config Syntax",
   "description": "VS Code extension for custom Styler syntax highlighting",
   "version": "1.0.0",
   "publisher": "TheSeekerFox",
