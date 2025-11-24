@@ -2,7 +2,7 @@
   "name": "styler-syntax-highlighter",
   "displayName": "Styler Config Syntax",
   "description": "VS Code extension for custom Styler syntax highlighting",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "TheSeekerFox",
   "engines": {
     "vscode": ">=1.50.0"
